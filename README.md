@@ -4,12 +4,11 @@ Topic collection for the Unconference at the Helmholtz AI/Helmholtz Imaging conf
 👉 For the conferences full programme visit [Helmholtz AI Conference 2023](https://helmholtzai-conference2023.de/) and 
 [Helmholtz Imaging Conference 2023](https://events.hifis.net/event/573/)
 
-The idea of an unconference is to form a programme together 
-
+The idea of an unconference is to form a programme together \
 🤝 Please post ideas for sessions as [issues](https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/issues). You need to have a GitHub account in order to do so.
 
-💡  Feel free to start a rough description of your idea as a new git issue and discuss with potential collaborators. 
-📜 Rule 1: One issue per potential unconference session
+💡  Feel free to start a rough description of your idea as a new git issue and discuss with potential collaborators.\
+📜 Rule 1: One issue per potential unconference session\
 🍒 Comment on existing issues if you have any thoughts or questions about it. You can also mention how you could contribute or anything else relevant to the idea.
 
 📜 Rule 2: **At the end there should be an abstract addressing the following items.**
