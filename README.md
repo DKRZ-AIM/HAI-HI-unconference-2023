@@ -8,10 +8,10 @@ The idea of an unconference is to form a programme together \
 🤝 Please post ideas for sessions as [issues](https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/issues). You need to have a GitHub account in order to do so.
 
 💡  Feel free to start a rough description of your idea as a new git issue and discuss with potential collaborators.\
-📜 Rule 1: One issue per potential unconference session\
+📜 **Rule 1:** One issue per potential unconference session\
 🍒 Comment on existing issues if you have any thoughts or questions about it. You can also mention how you could contribute or anything else relevant to the idea.
 
-📜 Rule 2: **At the end there should be an abstract addressing the following items.**
+📜 **Rule 2:** At the end there should be an abstract addressing the following items.
 * **Title**
 * **Description**, pointing out, e.g.
     * Question to be addressed
@@ -30,7 +30,7 @@ Specify the time you foresee for this session, e.g., 30min, 1h, ..., up to 3h
 Define the minimal number of participants you need to work on the specified task. 
 Is there a limit to the number of people who attend this session?
 
-📜 Rule 3: Please make sure that your session ideas are understandable to everyone. We come from different fields. Use as little jargon as possible. 💁
+📜 **Rule 3:** Please make sure that your session ideas are understandable to everyone. We come from different fields. Use as little jargon as possible. 💁
 
 _**to be discussed**_
 _We will review proposals in a two-stage process. On May 15 no more new issues are accepted. Until May 29 the existing proposals for sessions can still be discussed, merged, closed, or finalized. We will decide on the final program based on what we have after this second deadline._
