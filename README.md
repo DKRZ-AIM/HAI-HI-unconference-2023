@@ -11,24 +11,7 @@ The idea of an unconference is to form a programme together \
 📜 **Rule 1:** One issue per potential unconference session\
 🍒 Comment on existing issues if you have any thoughts or questions about it. You can also mention how you could contribute or anything else relevant to the idea.
 
-📜 **Rule 2:** At the end there should be an abstract addressing the following items.
-* **Title**
-* **Description**, pointing out, e.g.
-    * Question to be addressed
-    * Task to be solved
-    * Final outcome or even product, e.g., a blog post, a draft for a white paper, an outline for a software prototype, a list of rules to follow, a list of answers to specific questions
-* **Organizer(s)**
-in best case also name a representative. Don't forget to add contact information, i.e. email or github ID
-* **Speakers**, if applicable
-In case the format foresees an introduction, short talks etc.
-* **Format**
-E.g., talks followed by open discussion, hackathon like format, world café, etc. 
-You can find a list of common unconference formats [here](http://unconference.net/methods-2/). But at the end its up to the organizers
-* **Timeframe**
-Specify the time you foresee for this session, e.g., 30min, 1h, ..., up to 3h
-* **Number of participants**
-Define the minimal number of participants you need to work on the specified task. 
-Is there a limit to the number of people who attend this session?
+📜 **Rule 2:** Use the unconference issue template to put your abstract in the right shape - we need information such as a session title, description, resonsible persons, timeframe and so on.
 
 📜 **Rule 3:** Please make sure that your session ideas are understandable to everyone. We come from different fields. Use as little jargon as possible. 💁
 
