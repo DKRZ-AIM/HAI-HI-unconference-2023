@@ -32,7 +32,6 @@ The idea of an unconference is to form a programme together \
 
 If you run into any problems with this process, please contact the program chairs [Angela Jurik-Zeiller](mailto:angela.jurik-zeiller@helmholtz-muenchen.de) and/or [Paul Jäger](mailto:p.jaeger@dkfz-heidelberg.de).
 
-* Typical unconference [formats](http://unconference.net/methods-2/)
-* Helpfull [tips](https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/)
+Additional information: Typical unconference [formats](http://unconference.net/methods-2/) and helpfull [tips](https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/)
 
-Many thanks for inspiration and help in setting this up to the team of [deRSE23 unconference breakouts](https://github.com/DE-RSE/un-deRSE23-breakouts), Heidi Seibold, Robert Speck, Guido Juckeland
+_Many thanks for inspiration and help in setting this up to the team of [deRSE23 unconference breakouts](https://github.com/DE-RSE/un-deRSE23-breakouts), Heidi Seibold, Robert Speck, Guido Juckeland._
