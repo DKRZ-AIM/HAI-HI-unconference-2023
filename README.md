@@ -9,7 +9,7 @@ Topic collection for the Unconference at the Helmholtz AI/Helmholtz Imaging conf
   <img src="https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/2991ef96-2db6-44ec-ab4e-5d8c6a8a8bc9" height="100"> 
 </p>
 
-👉 For the conferences full programme visit [Helmholtz AI Conference 2023](https://helmholtzai-conference2023.de/) and 
+👉 For the conferences' full programme visit [Helmholtz AI Conference 2023](https://helmholtzai-conference2023.de/) and 
 [Helmholtz Imaging Conference 2023](https://events.hifis.net/event/573/)
 
 The idea of an unconference is to form a programme together \
