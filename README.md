@@ -2,8 +2,8 @@
 Topic collection for the Unconference at the Helmholtz AI/Helmholtz Imaging conference joint day, June 14, 2023, Hamburg
 
 <p float="left">
-  <img src="https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/d8294023-6359-442f-bdc4-4f97a9fa6c75" height="50">
-  <img src="https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/2cf8d63b-d735-4504-ba45-9ac728b182b1" height="50">
+  <img src="https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/d8294023-6359-442f-bdc4-4f97a9fa6c75" height="40">
+  <img src="https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/2cf8d63b-d735-4504-ba45-9ac728b182b1" height="40">
 </p>  
 
 👉 For the conferences full programme visit [Helmholtz AI Conference 2023](https://helmholtzai-conference2023.de/) and 
