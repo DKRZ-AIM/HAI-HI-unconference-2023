@@ -7,34 +7,32 @@ assignees: ''
 
 ---
 
-_Feel free to start a rough description of your idea as a new git issue and discuss with potential collaborators. _
+Feel free to start a rough description of your idea as a new git issue and discuss with potential collaborators. 
 
-_** At the end there should be an abstract addressing the following items.**_
+At the end there should be an abstract addressing the following items.
 
 # Title
 
 # Description
-_pointing out, e.g._
-    * _Question to be addressed_
-    * _Task to be solved_
-    * _Final outcome or even product, e.g., a blog post, a draft for a white paper, an outline for a software prototype, a list of rules to follow, a list of answers to specific questions_
+pointing out, e.g.
+    * Question to be addressed
+    * Task to be solved
+    * Final outcome or even product, e.g., a blog post, a draft for a white paper, an outline for a software prototype, a list of rules to follow, a list of answers to specific questions
 
 # Organizational
 
 ## Organizer(s)
-_In best case also name a representative. Don't forget to add contact information, i.e. email or github ID_
+In best case also name a representative. Don't forget to add contact information, i.e. email or github ID
 
 ## Speakers
-_if applicable_
-_In case the format foresees an introduction, short talks etc._
+if applicable, In case the format foresees an introduction, short talks etc.
 
 ## Format
-_E.g., talks followed by open discussion, hackathon like format, world café, etc. 
-You can find a list of common unconference formats [here](http://unconference.net/methods-2/). But at the end its up to the organizers_
+E.g., talks followed by open discussion, hackathon like format, world café, etc. 
 
 ## Timeframe
-_Specify the time you foresee for this session, e.g., 15min, 30min, 1h, ..., up to_ **_3h tbd_**
+Specify the minimal time you foresee for this session, e.g., 30min, 1h, ..., up to 3h
 
 ## Number of participants
-_Define the minimal number of participants you need to work on the specified task. 
-Is there a limit to the number of people who attend this session?_
+Define the minimal number of participants you need to work on the specified task. 
+Is there a limit to the number of people who attend this session?
