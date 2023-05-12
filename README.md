@@ -1,9 +1,8 @@
 # Future Challenges: an Unconference 
 Topic collection for the Unconference at the Helmholtz AI/Helmholtz Imaging conference joint day, June 14, 2023, Hamburg
 
-![image](https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/e642a0f3-d68a-4faf-895e-76706d773c76)
-
 <img src="https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/0dddb1b8-69c0-4aeb-8a68-aedb8b9f996b" height="30"> 
+<img src="https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/e642a0f3-d68a-4faf-895e-76706d773c76" height="30"> 
 <img src="https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/2cf8d63b-d735-4504-ba45-9ac728b182b1" height="30"> 
 
 
