@@ -24,6 +24,11 @@ The idea of an unconference is to form a programme together \
 
 📜 **Rule 3:** Please make sure that your session ideas are understandable to everyone. We come from different fields. Use as little jargon as possible. 💁
 
+🗣️ At the beginning of the unconference we will have an introduction session where all session organizers will have the chance to pitch their project idea and to guide people to their session. Prepare yourself for an <1min pitch.
+
+👍 Please vote on project ideas/issues that you consider interessting.
+
+📜 **Rule 4 After the unconference:** Please add a short summary about the outcome of your session to the open git issue, e.g., specify specific results, link to documents you worked on, specify goals for future collaboration you agreed on.
 
 If you run into any problems with this process, please contact the program chairs [Angela Jurik-Zeiller](mailto:angela.jurik-zeiller@helmholtz-muenchen.de) and/or [Paul Jäger](mailto:p.jaeger@dkfz-heidelberg.de).
 
