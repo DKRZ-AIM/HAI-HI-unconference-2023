@@ -1,12 +1,12 @@
 
 # Future Challenges: an Unconference 
 Topic collection for the Unconference at the Helmholtz AI/Helmholtz Imaging conference joint day, June 14, 2023, Hamburg
-![image](https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/2991ef96-2db6-44ec-ab4e-5d8c6a8a8bc9)
+
 
 <p align="center">
   <img src="https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/0dddb1b8-69c0-4aeb-8a68-aedb8b9f996b" height="30"> 
   <img src="https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/e642a0f3-d68a-4faf-895e-76706d773c76" height="50"> 
-  <img src="https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/2cf8d63b-d735-4504-ba45-9ac728b182b1" height="40"> 
+  <img src="https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/2991ef96-2db6-44ec-ab4e-5d8c6a8a8bc9" height="50"> 
 </p>
 
 👉 For the conferences full programme visit [Helmholtz AI Conference 2023](https://helmholtzai-conference2023.de/) and 
@@ -24,12 +24,10 @@ The idea of an unconference is to form a programme together \
 
 📜 **Rule 3:** Please make sure that your session ideas are understandable to everyone. We come from different fields. Use as little jargon as possible. 💁
 
-_**to be discussed**_
-_We will review proposals in a two-stage process. On May 15 no more new issues are accepted. Until May 29 the existing proposals for sessions can still be discussed, merged, closed, or finalized. We will decide on the final program based on what we have after this second deadline._
 
-If you run into any problems with this process, please contact the program chairs **[tbd](mailto:tbd) and/or [tbd](mailto:tbd)**.
-
-Many thanks for inspiration and help in setting this up to the team of [deRSE23 unconference breakouts](https://github.com/DE-RSE/un-deRSE23-breakouts), Heidi Seibold, Robert Speck, Guido Juckeland
+If you run into any problems with this process, please contact the program chairs [Angela Jurik-Zeiller](mailto:angela.jurik-zeiller@helmholtz-muenchen.de) and/or [Paul Jäger](mailto:p.jaeger@dkfz-heidelberg.de).
 
 * Typical unconference [formats](http://unconference.net/methods-2/)
 * Helpfull [tips](https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/)
+
+Many thanks for inspiration and help in setting this up to the team of [deRSE23 unconference breakouts](https://github.com/DE-RSE/un-deRSE23-breakouts), Heidi Seibold, Robert Speck, Guido Juckeland
